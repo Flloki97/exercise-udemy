@@ -7,14 +7,14 @@
 // console.log(bmi);
 
 
-// function randomNumber() {
-//     var n = Math.random();
-//     n = n * 6;
-//     n = Math.floor(n) + 1;
-//     return n;
-// }
+function randomNumber() {
+    var n = Math.random();
+    n = n * 6;
+    n = Math.floor(n) + 1;
+    return n;
+}
 
-// console.log(randomNumber());
+console.log(randomNumber());
 
 
 
