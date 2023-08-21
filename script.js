@@ -3,8 +3,8 @@
 //     return Math.round(bmi);
 // }
 
-// var bmi = bmiCalculator(65, 1.8);
-// console.log(bmi);
+var bmi = bmiCalculator(65, 1.8);
+console.log(bmi);
 
 
 function randomNumber() {
